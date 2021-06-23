@@ -5,7 +5,9 @@ A collection of templates to use for development.
 ## Dotnet
 - https://github.com/mitchazj/template-dotnet-core-console <br />
   A simple console application template for .NET Core and C#. Has pre-built CI.
-
+- https://github.com/mitchazj/template-dotnet-core-package <br />
+  A simple package application template for .NET Core and C#. Has pre-built CI. <br />
+  Also includes a console application + solution for building & testing convenience.
 
 ## Quick Actions
 
