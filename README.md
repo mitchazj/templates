@@ -1,6 +1,6 @@
 # Templates 📚
 
-A collection of templates to use to for development.
+A collection of templates to use for development.
 
 ## Dotnet
 - https://github.com/mitchazj/template-dotnet-core-console <br />
