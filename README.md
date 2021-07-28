@@ -8,6 +8,10 @@ A collection of templates to use for development.
 - https://github.com/mitchazj/template-dotnet-core-package <br />
   A simple package application template for .NET Core and C#. Has pre-built CI. <br />
   Also includes a console application + solution for building & testing convenience.
+  
+## Frontend
+- https://github.com/mitchazj/vrt-starter <br />
+  A vanilla vite, react, & tailwind template for a super-quick frontend setup
 
 ## Quick Actions
 
