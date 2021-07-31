@@ -12,6 +12,8 @@ A collection of templates to use for development.
 ## Frontend
 - https://github.com/mitchazj/vrt-starter <br />
   A vanilla vite, react, & tailwind template for a super-quick frontend setup
+- https://github.com/mitchazj/vlirt-starter <br />
+  A vanilla laravel, inertia (react), vite, & tailwind template for an efficient full-stack setup
 
 ## Quick Actions
 
